@@ -54,10 +54,6 @@ header {
   font-size: 20px;
 }
 
-/* .navLine nav ul {
-  list-style-type: none;
-} */
-
 .navLine nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -84,7 +80,7 @@ p {
  
 .middleText {
   width: 70%;
-  text-align: center
+  text-align: center;
 }
 
 .hero-banner h2{
@@ -93,7 +89,6 @@ p {
  
 #myAvatar {
   position: relative;
-  margin-left: 100px; 
   max-height: 50vh;
   max-width: 50vh;
 }
